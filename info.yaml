@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481508996371491841       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "BCD 7 Seg_ASJV"      # Project title
-  author:       "Angel Serafin Jimenez Vazquez"      # Your name
+  title:        "BCD_7_Seg_ASJV"      # Project title
+  author:       "Angel_Serafin_Jimenez_Vazquez"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Convetidor binario a 7 Segmentos"      # One line description of what your project does
+  description:  "Convetidor_binario_a_7_Segmentos"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
