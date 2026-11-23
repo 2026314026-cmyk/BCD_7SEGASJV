@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Write a binary number of 4 digital inputs for 7 digital outputs in a 7-segments display.
 
 ## How to test
 
-Explain how to use your project
+select a binary number, in the output you will get the equivalent decimal number in the 7-segments display.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1.-7-segments display
